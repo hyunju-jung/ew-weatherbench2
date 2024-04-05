@@ -15,3 +15,7 @@ Install WeatherBench 2.
     pip install git+https://github.com/google-research/weatherbench2.git
     pip install gcsfs
 
+Some useful commands `module`
+
+    module avail
+    module list
