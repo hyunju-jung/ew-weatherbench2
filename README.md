@@ -13,5 +13,5 @@ Set up a kernel for jupyter notebook.
 Install WeatherBench 2.
 
     pip install git+https://github.com/google-research/weatherbench2.git
-    pip install gcsfs
+    pip install gcsfs basemap
 
